@@ -7,11 +7,11 @@
 
 /*
 
-青　#ADD8E6　rgba(173,216,230,1.0)
-青（濃）　#74B7CE　rgba(116,183,206,1)
-青（新）　#003F88　rgbA(0,63,136,1)　
-紺　#313140　rgba(49,49,64,1)
-オレンジ　#E7782E　rgba(231,120,46,1)
+#ADD8E6　rgba(173,216,230,1.0)
+）　#74B7CE　rgba(116,183,206,1)
+　#003F88　rgbA(0,63,136,1)　
+#313140　rgba(49,49,64,1)
+#E7782E　rgba(231,120,46,1)
 
 */
 
@@ -327,7 +327,11 @@ img {
     font-size: 1.0rem;
     line-height: 1.6;
 }
-
+#main_contents h5 {
+    margin-bottom: 7px;
+    font-size: 0.99rem;
+    line-height: 1.6;
+}
 /* --- responsive --- */
 @media(max-width:1000px) {
     #main_contents p {
